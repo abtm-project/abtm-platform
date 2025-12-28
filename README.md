@@ -20,7 +20,7 @@ See our [research paper](link) published in IEEE TSE
 
 ## Citation
 ```bibtex
-@article{yourname2025abtm,
+@article{2025abtm,
   title={Bridging the Learning Curve in BDD...}
 }
 ```
